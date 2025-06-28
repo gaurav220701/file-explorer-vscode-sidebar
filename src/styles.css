@@ -1,0 +1,15 @@
+/* .App {
+  font-family: sans-serif;
+  text-align: center;
+} */
+.childrens {
+  margin-left: 20px;
+}
+.img-add {
+  height: 20px;
+  width: 20px;
+  cursor: pointer;
+}
+.icons {
+  display: inline;
+}
